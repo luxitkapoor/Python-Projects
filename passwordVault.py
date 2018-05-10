@@ -1,6 +1,8 @@
 #! /usr/bin/env python3.
 
 # A Very unsecure password vault
+# Takes a single command line argument
+
 import sys
 import pyperclip
 
